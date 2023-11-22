@@ -1,9 +1,9 @@
 <?php
 
-namespace Wh\Inspire\Controllers;
+namespace w3nck3\Inspire\Controllers;
 
 use Illuminate\Http\Request;
-use Wh\Inspire\Inspire;
+use w3nck3\Inspire\Inspire;
 
 class InspirationController
 {

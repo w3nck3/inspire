@@ -1,7 +1,7 @@
 <?php
 
-use Wh\Inspire\Controllers;
+use w3nck3\Inspire\Controllers;
 use Illuminate\Support\Facades\Route;
-use Wh\Inspire\Controllers\InspirationController;
+use w3nck3\Inspire\Controllers\InspirationController;
 
 Route::get('inspire', InspirationController::class);

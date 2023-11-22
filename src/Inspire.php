@@ -1,6 +1,6 @@
 <?php
 
-namespace Wh\Inspire;
+namespace w3nck3\Inspire;
 
 use Illuminate\Support\Facades\Http;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Wh\Inspire\Providers;
+namespace w3nck3\Inspire\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
