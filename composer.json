@@ -1,9 +1,9 @@
 {
-    "name": "wh/inspire",
+    "name": "w3nck3/inspire",
     "description": "A package for giving out inspirational quotes.",
     "autoload": {
         "psr-4": {
-            "Wh\\Inspire\\": "src/"
+            "w3nck3\\Inspire\\": "src/"
         }
     },
     "authors": [
